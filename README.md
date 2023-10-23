@@ -47,11 +47,11 @@ Data is arranged by [ISO 3166-1 alpha-2][ISO 3166-1 alpha-2] continent/country c
 
 ### 1.4 Macrolanguages
 > The following languages are [macrolanguages][Macrolanguage] stored in [`/data/macrolanguages.json`](/data/macrolanguages.json). They are a derived dialect of a language code in [`/data/languages.json`](/data/languages.json) and have a reference to them in their data. They are not included in language speakers distribution maps in [`/maps`](/maps). Note: Google lists the language code for `Konkani` as `gom`.
-```
-ckb Kurdish (Sorani) -> ku Kurdish 
-gom Konkani -> kok Konkani 
-kri Kri -> aem Arem
-```
+> ```
+> ckb Kurdish (Sorani) -> ku Kurdish 
+> gom Konkani -> kok Konkani 
+> kri Kri -> aem Arem
+> ```
 
 ## 2. File Structure
 ```
