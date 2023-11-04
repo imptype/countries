@@ -59,7 +59,7 @@ Data is arranged by [ISO 3166-1 alpha-2][ISO 3166-1 alpha-2] continent/country c
 ├─ data/                      # Contains JSON files
 │  ├─ continents.json         # Data about continents
 │  ├─ countries.json          # Data about countries
-|  ├─ languages.json          # Data about languages + some extras
+│  ├─ languages.json          # Data about languages + some extras
 │  └─ macrolanguages.json     # Data about some macrolanguages
 ├─ flags/                     # Country flag PNGs
 ├─ maps/                      # Language speakers distribution PNGs
