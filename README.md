@@ -3,10 +3,10 @@ A collection of metadata about all countries in the world.
 
 ### Table of Contents
 1. [Information](#1-information)
-3. [File Structure](#2-file-structure)
-4. [Data Contents](#3-data-contents)
-5. [Links and Resources](#4-links-and-resources)
-6. [Contributing](#5-contributing)
+2. [File Structure](#2-file-structure)
+3. [Data Contents](#3-data-contents)
+4. [Links and Resources](#4-links-and-resources)
+5. [Contributing](#5-contributing)
 
 ## 1. Information
 Data is arranged by [ISO 3166-1 alpha-2][ISO 3166-1 alpha-2] continent/country codes and [ISO 639-1][ISO 639-1] language codes. However, some more extra languages codes are included with the data too due to [Google][Google Languages], [Steam][Steam Languages] and [Discord][Discord Locales] considering them significant enough:
